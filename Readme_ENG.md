@@ -4,14 +4,14 @@ The repository provides an example of implementing a voice assistant using the P
 
 ## Planned functionality of the assistant:
 
-2. get the weather forecast in a certain place
+1. get the weather forecast in a certain place
 
-3. get detailed information
+2. get detailed information
 
-4. get help from Wikipedia
+3. get help from Wikipedia
 
-5. send emails to a specific address
+4. send emails to a specific address
 
-6. Google search
+5. Google search
 
-7. ability to control the Arduino system
+6. ability to control the Arduino system
