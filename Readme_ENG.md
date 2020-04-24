@@ -2,7 +2,7 @@
 
 The repository provides an example of implementing a voice assistant using the Python programming language. In the future, the development of the project will continue, taking into account the focus on people with disabilities.
 
-1. Planned functionality of the assistant:
+## Planned functionality of the assistant:
 
 2. get the weather forecast in a certain place
 
